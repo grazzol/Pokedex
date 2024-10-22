@@ -1,38 +1,33 @@
-# <font color='red'> Projet Pokemon Aurian Baudet </font>
+# <font color='red'> Project Pokemon Aurian Baudet </font>
 
-## Projet :
+## Project :
 
-Ce projet est un site permettant de visualisé tous les pokémons de 1er génération. Il a été fait durant la première année de cycle Ingénieur au CNAM.
+This project is a website that allows you to view all the Pokémon from the 1st generation. It was created during the first year of the Engineering program at CNAM.
 
 ---
   
-## Lancer le projet :
+## Start the project :
 
-Installation du projet :
-
-```
-// Dans un terminal git :
-
-git clone https://gitlab.com/grazzol/pokedex.git
+Downloading :
 
 ```
+git clone https://github.com/grazzol/Pokedex.git
 
-Installation des packages :
+```
+Packages installation :
 
 ```
 npm i
 
 ```
 
-Dans deux terminaux distinct lancez ces deux commandes :
+In two distinc commande line :
 
 ```
-// Lancement du localhost sur le port 3000
-
 npm run dev 
 
-// Lancement de la base de donnée JSON sur le port 3001
-
+```
+```
 npm run server
 
 ```
