@@ -1,10 +1,10 @@
-# <font color='red'> Projet Pokemon Aurian Baudet et Soleymane Latrèche </font>
+# <font color='red'> Projet Pokemon Aurian Baudet </font>
 
 ## Projet :
 
-- Ce projet pokémon contient toutes les fonctionnalitées demandées
-- Il a été fait via git 
-- Soleymane ayant eu un problème avec git le code a été partagé et Aurian s'occupait de poster sur git après revue du code
+Ce projet est un site permettant de visualisé tous les pokémons de 1er génération. Il a été fait durant la première année de cycle Ingénieur au CNAM.
+
+---
   
 ## Lancer le projet :
 
