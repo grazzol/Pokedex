@@ -1,0 +1,33 @@
+.container_reviews {
+    height: 50vh;
+    overflow: hidden;
+}
+
+.input {
+    height: 30px;
+    border-radius: 25px;
+    width: 20vw;
+    margin-bottom: 20px;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow-y: scroll;
+    height: 100%;
+}
+
+.barre {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 5px;
+    height: 100%;
+    background-color: #ccc;
+    cursor: pointer;
+}
+
+.barre:hover {
+    background-color: #aaa;
+}

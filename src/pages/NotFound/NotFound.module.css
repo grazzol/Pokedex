@@ -1,0 +1,21 @@
+.page404 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.page404 h1 {
+    font-size: 48px;
+    color: #333;
+}
+
+.page404 p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.page404 img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 30px;
+}

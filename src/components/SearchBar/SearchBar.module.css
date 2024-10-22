@@ -1,0 +1,13 @@
+.input_container {
+    text-align: center;
+}
+
+.input {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: block;
+    border: 3px solid #ff9494;
+    border-radius: 25px;
+    height: 30px;
+}

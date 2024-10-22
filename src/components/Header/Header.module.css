@@ -1,0 +1,10 @@
+.header {
+    height: 50px;
+    width: 100%;
+    background: #ff0f0f;
+}
+
+.image {
+    padding: 5px;
+    height: 40px;
+}

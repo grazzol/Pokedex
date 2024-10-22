@@ -1,0 +1,14 @@
+.container_card_list {
+    display: flex;
+    margin-left: 300px;
+    margin-right: 300px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.error_message {
+    text-align: center;
+    color: gray;
+}

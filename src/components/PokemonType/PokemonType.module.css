@@ -1,0 +1,18 @@
+.container {
+    display: inline-flex;
+    gap: 10px;
+}
+
+.type {
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+
+}
+
+.type_text {
+    color: white;
+    margin: auto;
+}
